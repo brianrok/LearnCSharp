@@ -9,6 +9,15 @@ namespace Learn
             Console.WriteLine("Hello World!");
             Console.WriteLine();
             ArrayTest.MyMain();
+			Console.WriteLine();
+            CustomClass.MyMain();
+            Console.WriteLine();
+            Person.MyMain();
+            PersonStruct.MyMain();
+            Console.WriteLine();
+            Rectangle.MyMain();
+			Console.WriteLine();
+            Calculator.MyMain();
         }
     }
 }

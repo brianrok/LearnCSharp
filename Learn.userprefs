@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{CFB3189E-BC37-43E4-BCF3-0616791BE813}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="10" Column="31" />
-      <File FileName="ArrayTest.cs" Line="11" Column="13" />
+      <File FileName="Program.cs" Line="14" Column="31" />
+      <File FileName="CustomClass.cs" Line="48" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
