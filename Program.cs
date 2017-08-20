@@ -18,6 +18,16 @@ namespace Learn
             Rectangle.MyMain();
 			Console.WriteLine();
             Calculator.MyMain();
+            Console.WriteLine();
+            Method.MyMain();
+			Console.WriteLine();
+            Delegate.MyMain();
+			Console.WriteLine();
+			Enum.MyMain();
+			Console.WriteLine();
+            Exception.MyMain();
+			Console.WriteLine();
+            FileOperation.MyMain();
         }
     }
 }

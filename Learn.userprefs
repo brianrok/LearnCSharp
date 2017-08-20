@@ -1,8 +1,13 @@
 ﻿<Properties StartupConfiguration="{CFB3189E-BC37-43E4-BCF3-0616791BE813}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileOperation.cs">
     <Files>
-      <File FileName="Program.cs" Line="14" Column="31" />
-      <File FileName="CustomClass.cs" Line="48" Column="38" />
+      <File FileName="Program.cs" Line="30" Column="36" />
+      <File FileName="CustomClass.cs" Line="129" Column="38" />
+      <File FileName="Method.cs" Line="16" Column="13" />
+      <File FileName="Delegate.cs" Line="17" Column="2" />
+      <File FileName="Enum.cs" Line="27" Column="50" />
+      <File FileName="Exception.cs" Line="32" Column="30" />
+      <File FileName="FileOperation.cs" Line="36" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

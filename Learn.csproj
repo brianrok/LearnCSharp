@@ -37,6 +37,11 @@
     <Compile Include="NormalConstruct.cs" />
     <Compile Include="ArrayTest.cs" />
     <Compile Include="CustomClass.cs" />
+    <Compile Include="Method.cs" />
+    <Compile Include="Delegate.cs" />
+    <Compile Include="Enum.cs" />
+    <Compile Include="Exception.cs" />
+    <Compile Include="FileOperation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
