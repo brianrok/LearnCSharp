@@ -28,6 +28,12 @@ namespace Learn
             Exception.MyMain();
 			Console.WriteLine();
             FileOperation.MyMain();
+            Console.WriteLine();
+            Nullable.MyMain();
+            string s = null;
+            Console.WriteLine(s.IsNull());
+			Console.WriteLine();
+			LinqLearn.MyMain();
         }
     }
 }
